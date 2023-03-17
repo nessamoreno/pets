@@ -23,7 +23,7 @@ In summary, this project demonstrates the ability to use the Laravel framework f
     http://127.0.0.1:8000
 
 #### 4. Modify env file for database connection
-    Create an  **.env**  file in Laravel, you must copy the content of the  **.env.example**  file and modify the name of the database and the password (if you have one) with the corresponding values. This file is crucial for the configuration of the application and must be carefully reviewed before running the application.
+    Create an .env file in Laravel, you must copy the content of the .env.example file and modify the name of the database and the password (if you have one) with the corresponding values. This file is crucial for the configuration of the application and must be carefully reviewed before running the application.
 #### 5. Perform the migration to the database
         php artisan migrate
 
